@@ -1,0 +1,18 @@
+[submodule "apps/app1"]
+	path = apps/app1
+	url = https://github.com/AliMoradiSabzKoohi/app1.git
+[submodule "apps/app2"]
+	path = apps/app2
+	url = https://github.com/AliMoradiSabzKoohi/app2.git
+[submodule "apps/super_app"]
+	path = apps/super_app
+	url = https://github.com/AliMoradiSabzKoohi/super_app.git
+[submodule "modules/super_domain_module"]
+	path = modules/super_domain_module
+	url = https://github.com/AliMoradiSabzKoohi/super_domain_module.git
+[submodule "modules/super_data_module"]
+	path = modules/super_data_module
+	url = https://github.com/AliMoradiSabzKoohi/super_data_module.git
+[submodule "modules/super_application_module"]
+	path = modules/super_application_module
+	url = https://github.com/AliMoradiSabzKoohi/super_application_module.git
