@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/app1/melos_app1.iml" filepath="$PROJECT_DIR$/apps/app1/melos_app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_application_module/app1_application_module/melos_app1_application_module.iml" filepath="$PROJECT_DIR$/modules/super_application_module/app1_application_module/melos_app1_application_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_application_module/app1_application_module/example/melos_app1_application_module_example.iml" filepath="$PROJECT_DIR$/modules/super_application_module/app1_application_module/example/melos_app1_application_module_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_data_module/app1_data_module/melos_app1_data_module.iml" filepath="$PROJECT_DIR$/modules/super_data_module/app1_data_module/melos_app1_data_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_data_module/app1_data_module/example/melos_app1_data_module_example.iml" filepath="$PROJECT_DIR$/modules/super_data_module/app1_data_module/example/melos_app1_data_module_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/melos_app1_domain_module.iml" filepath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/melos_app1_domain_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/melos_app1_domain_module_example.iml" filepath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/melos_app1_domain_module_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/app2/melos_app2.iml" filepath="$PROJECT_DIR$/apps/app2/melos_app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_application_module/app2_application_module/melos_app2_application_module.iml" filepath="$PROJECT_DIR$/modules/super_application_module/app2_application_module/melos_app2_application_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_application_module/app2_application_module/example/melos_app2_application_module_example.iml" filepath="$PROJECT_DIR$/modules/super_application_module/app2_application_module/example/melos_app2_application_module_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_data_module/app2_data_module/melos_app2_data_module.iml" filepath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/melos_app2_data_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/melos_app2_data_module_example.iml" filepath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/melos_app2_data_module_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/melos_app2_domain_module.iml" filepath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/melos_app2_domain_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/melos_app2_domain_module_example.iml" filepath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/melos_app2_domain_module_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/super_app/melos_super_app.iml" filepath="$PROJECT_DIR$/apps/super_app/melos_super_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_application_module/melos_super_application_module.iml" filepath="$PROJECT_DIR$/modules/super_application_module/melos_super_application_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_application_module/example/melos_super_application_module_example.iml" filepath="$PROJECT_DIR$/modules/super_application_module/example/melos_super_application_module_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_data_module/melos_super_data_module.iml" filepath="$PROJECT_DIR$/modules/super_data_module/melos_super_data_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_data_module/example/melos_super_data_module_example.iml" filepath="$PROJECT_DIR$/modules/super_data_module/example/melos_super_data_module_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_domain_module/melos_super_domain_module.iml" filepath="$PROJECT_DIR$/modules/super_domain_module/melos_super_domain_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/super_domain_module/example/melos_super_domain_module_example.iml" filepath="$PROJECT_DIR$/modules/super_domain_module/example/melos_super_domain_module_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_super_app_flutter_monorepo.iml" filepath="$PROJECT_DIR$/melos_super_app_flutter_monorepo.iml" />
+    </modules>
+  </component>
+</project>

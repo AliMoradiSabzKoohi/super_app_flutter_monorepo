@@ -1,0 +1,22 @@
+name: super_app_flutter_monorepo
+packages:
+  - apps/**
+  - modules/**
+
+scripts:
+  pub-get-all:
+    run: |
+      cd apps/super_app && flutter clean && flutter pub get -v
+      cd apps/app1 && flutter clean && flutter pub get -v
+      cd apps/app2 && flutter clean && flutter pub get -v
+      cd modules/super_application_module && flutter clean && flutter pub get -v
+      cd modules/super_application_module/app1_application_module && flutter clean && flutter pub get -v
+      cd modules/super_application_module/app2_application_module && flutter clean && flutter pub get -v
+      cd modules/super_data_module && flutter clean && flutter pub get -v
+      cd modules/super_data_module/app1_data_module && flutter clean && flutter pub get -v
+      cd modules/super_data_module/app2_data_module && flutter clean && flutter pub get -v
+      cd modules/super_domain_module && flutter clean && flutter pub get -v
+      cd modules/super_domain_module/app1_domain_module && flutter clean && flutter pub get -v
+      cd modules/super_domain_module/app2_domain_module && flutter clean && flutter pub get -v
+
+    description: Run "flutter clean && flutter pub get -v" for all projects

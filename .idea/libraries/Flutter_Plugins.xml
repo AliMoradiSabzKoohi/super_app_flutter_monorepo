@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/modules/super_application_module/app2_application_module" />
+      <root url="file://$PROJECT_DIR$/modules/super_data_module/app1_data_module" />
+      <root url="file://$PROJECT_DIR$/modules/super_application_module/app1_application_module" />
+      <root url="file://$PROJECT_DIR$/modules/super_data_module/app2_data_module" />
+      <root url="file://$PROJECT_DIR$/modules/super_domain_module" />
+      <root url="file://$PROJECT_DIR$/modules/super_domain_module/app2_domain_module" />
+      <root url="file://$PROJECT_DIR$/../../../../../flutter/packages/integration_test" />
+      <root url="file://$PROJECT_DIR$/modules/super_domain_module/app1_domain_module" />
+      <root url="file://$PROJECT_DIR$/modules/super_data_module" />
+      <root url="file://$PROJECT_DIR$/modules/super_application_module" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
