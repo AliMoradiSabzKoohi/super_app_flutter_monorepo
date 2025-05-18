@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="fix app1 and melos" />
+    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="fix app1 and melos">
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +204,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747582505104</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix app1 and melos">
+      <option name="closed" value="true" />
+      <created>1747582750997</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582750997</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix app1 and melos">
+      <option name="closed" value="true" />
+      <created>1747582966273</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582966273</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
