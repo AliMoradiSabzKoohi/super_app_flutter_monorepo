@@ -2,5 +2,17 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/app1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/app2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apps/super_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/super_application_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/super_application_module/app1_application_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/super_application_module/app2_application_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/super_data_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/super_data_module/app1_data_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/super_data_module/app2_data_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/super_domain_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module" vcs="Git" />
   </component>
 </project>

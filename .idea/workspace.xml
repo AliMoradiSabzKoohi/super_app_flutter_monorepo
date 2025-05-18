@@ -4,257 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="add submodules and update">
-      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_bootstrap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_clean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_app1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_app1_application_module_example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_app1_data_module_example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_app1_domain_module_example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_app2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_app2_application_module_example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_app2_data_module_example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_app2_domain_module_example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_super_app.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_super_application_module_example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_super_data_module_example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_run_super_domain_module_example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_test_app1_application_module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_test_app1_data_module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_test_app1_domain_module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_test_app2_application_module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_test_app2_data_module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_test_app2_domain_module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_test_super_application_module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_test_super_data_module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_flutter_test_super_domain_module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/melos_run_pub_get_all.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/super_app_flutter_monorepo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/kotlin/com/example/app1/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/android/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/flutter/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/flutter/generated_plugins.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/runner/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/runner/main.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/runner/my_application.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/linux/runner/my_application.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/DebugProfile.entitlements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/Runner/Release.entitlements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/web/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/web/icons/Icon-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/web/icons/Icon-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/web/icons/Icon-maskable-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/web/icons/Icon-maskable-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/web/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/flutter/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/flutter/generated_plugins.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/Runner.rc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/flutter_window.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/flutter_window.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/resource.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/resources/app_icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/runner.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/utils.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/utils.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/win32_window.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/app1/windows/runner/win32_window.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/melos.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/melos_super_app_flutter_monorepo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/integration_test/plugin_integration_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/pubspec_overrides.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/example/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/lib/app2_data_module.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/lib/app2_data_module_method_channel.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/lib/app2_data_module_platform_interface.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/test/app2_data_module_method_channel_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module/test/app2_data_module_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/integration_test/plugin_integration_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/pubspec_overrides.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/example/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/lib/app1_domain_module.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/lib/app1_domain_module_method_channel.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/lib/app1_domain_module_platform_interface.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/test/app1_domain_module_method_channel_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module/test/app1_domain_module_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/integration_test/plugin_integration_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/pubspec_overrides.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/example/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/lib/app2_domain_module.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/lib/app2_domain_module_method_channel.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/lib/app2_domain_module_platform_interface.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/test/app2_domain_module_method_channel_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module/test/app2_domain_module_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/example/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/example/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/example/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/example/integration_test/plugin_integration_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/example/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/example/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/example/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/example/pubspec_overrides.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/example/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/lib/super_domain_module.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/lib/super_domain_module_method_channel.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/lib/super_domain_module_platform_interface.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/test/super_domain_module_method_channel_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/super_domain_module/test/super_domain_module_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/app1" beforeDir="false" afterPath="$PROJECT_DIR$/apps/app1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/super_data_module/app2_data_module" beforeDir="false" afterPath="$PROJECT_DIR$/modules/super_data_module/app2_data_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/super_domain_module" beforeDir="false" afterPath="$PROJECT_DIR$/modules/super_domain_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module" beforeDir="false" afterPath="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module" beforeDir="false" afterPath="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module" afterDir="false" />
+    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="add submodules and create flutter project on submodules">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,36 +18,65 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/modules/super_data_module/app1_data_module" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/modules/super_application_module/app1_application_module" value="f9515f8e467b8f7a9337c1135cb1defb9feb4d88" />
+        <entry key="$PROJECT_DIR$/modules/super_application_module/app2_application_module" value="c9dd73b0fdf13eb171e32fb6eb77f43e623c1d4d" />
+        <entry key="$PROJECT_DIR$/modules/super_data_module/app1_data_module" value="9adc89e1a669f50993d4206786113cb572cc7279" />
+        <entry key="$PROJECT_DIR$/modules/super_data_module/app2_data_module" value="4655f700ff58fada08e66fcf0e7ac45b74a205ad" />
+        <entry key="$PROJECT_DIR$/modules/super_domain_module/app1_domain_module" value="e66d5bfc2c275f582d0d0e8096238c7a9730b915" />
+        <entry key="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module" value="9325d731d11e9e71fe0c15397d824f31893ec147" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AliMoradiSabzKoohi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AliMoradiSabzKoohi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AliMoradiSabzKoohi/super_app_flutter_monorepo.git",
-    "accountId": "d3c84721-e599-4a96-b7bf-eee718e4e8c5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AliMoradiSabzKoohi/super_app_flutter_monorepo.git&quot;,
+    &quot;accountId&quot;: &quot;d3c84721-e599-4a96-b7bf-eee718e4e8c5&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2xF90Dj74oyyhgfGGVSj1NdGXSi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/alimoradi/Desktop/irisa/super_app_flutter_monorepo",
-    "settings.editor.selected.configurable": "dart.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alimoradi/Desktop/irisa/super_app_flutter_monorepo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alimoradi\Desktop\irisa\super_app_flutter_monorepo" />
@@ -344,11 +126,52 @@
       <option name="project" value="LOCAL" />
       <updated>1747523307174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add submodules and create flutter project on submodules">
+      <option name="closed" value="true" />
+      <created>1747524290647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747524290647</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add submodules and create flutter project on submodules">
+      <option name="closed" value="true" />
+      <created>1747524304103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747524304103</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add submodules and create flutter project on submodules">
+      <option name="closed" value="true" />
+      <created>1747524394216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747524394216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add submodules and create flutter project on submodules">
+      <option name="closed" value="true" />
+      <created>1747524537078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747524537078</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add submodules and create flutter project on submodules">
+      <option name="closed" value="true" />
+      <created>1747524550346</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747524550346</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add submodules and update" />
-    <option name="LAST_COMMIT_MESSAGE" value="add submodules and update" />
+    <MESSAGE value="add submodules and create flutter project on submodules" />
+    <option name="LAST_COMMIT_MESSAGE" value="add submodules and create flutter project on submodules" />
   </component>
 </project>
