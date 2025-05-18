@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="fix app1 and melos">
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-    </list>
+    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="remove app1 and app2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +218,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747582966273</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fix app1 and melos">
+      <option name="closed" value="true" />
+      <created>1747583124882</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1747583124882</updated>
+    </task>
+    <task id="LOCAL-00015" summary="remove app1 and app2">
+      <option name="closed" value="true" />
+      <created>1747583479079</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747583479079</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,6 +244,7 @@
     <MESSAGE value="update app1" />
     <MESSAGE value="fix app1" />
     <MESSAGE value="fix app1 and melos" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix app1 and melos" />
+    <MESSAGE value="remove app1 and app2" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove app1 and app2" />
   </component>
 </project>
