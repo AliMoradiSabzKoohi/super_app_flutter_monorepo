@@ -2,7 +2,7 @@ name: super_app_flutter_monorepo
 packages:
   - apps/**
   - modules/**
-
+# melos pub-get-all
 scripts:
   pub-get-all:
     run: |
