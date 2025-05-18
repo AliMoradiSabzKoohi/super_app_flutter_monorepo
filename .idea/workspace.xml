@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="remove app1 and app2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="remove app1 and app2 and add submodules app1 and app2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747584000290</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="remove app1 and app2 and add submodules app1 and app2">
+      <option name="closed" value="true" />
+      <created>1747584751499</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747584751499</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,6 +321,7 @@
     <MESSAGE value="fix app1 and melos" />
     <MESSAGE value="add app1 and app2" />
     <MESSAGE value="remove app1 and app2" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove app1 and app2" />
+    <MESSAGE value="remove app1 and app2 and add submodules app1 and app2" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove app1 and app2 and add submodules app1 and app2" />
   </component>
 </project>
