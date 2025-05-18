@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/apps/app1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/apps/app2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/apps/super_app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/modules/super_application_module" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/modules/super_application_module/app1_application_module" vcs="Git" />

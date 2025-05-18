@@ -10,9 +10,3 @@
 [submodule "modules/super_application_module"]
 	path = modules/super_application_module
 	url = https://github.com/AliMoradiSabzKoohi/super_application_module.git
-[submodule "apps/app1"]
-	path = apps/app1
-	url = https://github.com/AliMoradiSabzKoohi/app1.git
-[submodule "apps/app2"]
-	path = apps/app2
-	url = https://github.com/AliMoradiSabzKoohi/app2.git
