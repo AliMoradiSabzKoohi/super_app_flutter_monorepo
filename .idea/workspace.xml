@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="add submodules and create flutter project on submodules">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8659d3a5-dfe9-4079-afe2-00da432ad7cc" name="Changes" comment="update app1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +37,7 @@
         <entry key="$PROJECT_DIR$/modules/super_domain_module/app2_domain_module" value="9325d731d11e9e71fe0c15397d824f31893ec147" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apps/app1" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -166,12 +162,38 @@
       <option name="project" value="LOCAL" />
       <updated>1747524550346</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="generation files">
+      <option name="closed" value="true" />
+      <created>1747582005733</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582005733</updated>
+    </task>
+    <task id="LOCAL-00008" summary="generation files">
+      <option name="closed" value="true" />
+      <created>1747582030906</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582030906</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update app1">
+      <option name="closed" value="true" />
+      <created>1747582042253</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582042253</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add submodules and update" />
     <MESSAGE value="add submodules and create flutter project on submodules" />
-    <option name="LAST_COMMIT_MESSAGE" value="add submodules and create flutter project on submodules" />
+    <MESSAGE value="generation files" />
+    <MESSAGE value="update app1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update app1" />
   </component>
 </project>
