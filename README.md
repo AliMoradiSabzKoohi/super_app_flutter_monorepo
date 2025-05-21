@@ -15,3 +15,7 @@ dart pub global activate melos
 ```bash
 melos bs
 ```
+
+![Monorepo Super Application Clean Architecture](https://github.com/user-attachments/assets/7aee02b5-b5df-4a1a-821c-1d0155a20ff7)
+
+[Monorepo Super Application Clean Architecture.pdf](https://github.com/user-attachments/files/20273784/Monorepo.Super.Application.Clean.Architecture.pdf)
